@@ -1,4 +1,4 @@
-name: Foresight CI Workflow Flaky
+name: Go Flaky Lab
 
 
 on:
